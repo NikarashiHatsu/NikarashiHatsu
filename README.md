@@ -12,6 +12,7 @@ I'm a Fullstack developer from Cirebon, West Java, Indonesia. I'm a college stud
 📫 How to reach me:
 - Email: [Aghits Nidallah](yourlovelydev@gmail.com)
 
+[![NikarashiHatsu's github stats](https://github-readme-stats.vercel.app/api?username=NikarashiHatsu)](https://github.com/NikarashiHatsu)
 
 <!--
 **NikarashiHatsu/NikarashiHatsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
