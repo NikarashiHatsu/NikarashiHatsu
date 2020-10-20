@@ -1,7 +1,8 @@
 ### Hi there 👋
 I'm a Fullstack developer from Cirebon, West Java, Indonesia. I'm a college student and currently working as a freelance.
 
-🔭 I’m currently working on SDM Aceh, one of my freelancing company's project.
+🔭 I’m currently working on nothing, but particularly busy to do IRL works.
+**SDM Polda Aceh is done. Maintenance step is on the way!**
 
 🌱 I’m currently learning Flutter, I want to make an android application and publish it on Google Play, someday.
 
