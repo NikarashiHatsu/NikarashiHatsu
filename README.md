@@ -2,11 +2,16 @@
 I'm a Fullstack developer from Cirebon, West Java, Indonesia. I'm a college student and currently working as a freelance.
 
 🔭 I’m currently working on nothing, but particularly busy to do IRL works.
-**SDM Polda Aceh is done. Maintenance step is on the way!**
+Big Projects:
+- **SDM Polda Aceh. (Done) Maintenance step is on the way!**
+- Project Red / BWI App Store - In progress
+- 4 Reality Reborn - In progress
 
 🌱 I’m currently learning Flutter, I want to make an android application and publish it on Google Play, someday.
 
-🤔 I’m looking for help with Flutter BLoC. It's hard for me to understand.
+🤔 I’m looking for help with:
+- Flutter BLoC. It's hard for me to understand.
+- Progressive Web App.
 
 💬 Ask me about anything.
 
