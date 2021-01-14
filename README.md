@@ -4,8 +4,10 @@ I'm a Fullstack developer from Cirebon, West Java, Indonesia. I'm a college stud
 🔭 I’m currently working on nothing, but particularly busy to do IRL works.
 Big Projects:
 - **SDM Polda Aceh. (Done) Maintenance step is on the way!**
-- Project Red / BWI App Store - In progress
+- **Project Red / BWI App Store. (Done) Maintenance and polish them is on the way!**
+- Aceh Bhayangkari - Planned
 - 4 Reality Reborn - In progress
+- Vite Components - Personal project, in progress
 
 🌱 I’m currently learning Flutter, I want to make an android application and publish it on Google Play, someday.
 
