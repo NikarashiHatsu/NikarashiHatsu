@@ -9,10 +9,10 @@ Big Projects:
 - 4 Reality Reborn - In progress
 - Vite Components - Personal project, in progress
 
-🌱 I’m currently learning Flutter, I want to make an android application and publish it on Google Play, someday.
+🌱 ~I’m currently learning Flutter, I want to make an android application and publish it on Google Play, someday.~ I want to learn PWA.
 
 🤔 I’m looking for help with:
-- Flutter BLoC. It's hard for me to understand.
+- Flutter BLoC (still). It's hard for me to understand.
 - Progressive Web App.
 
 💬 Ask me about anything.
