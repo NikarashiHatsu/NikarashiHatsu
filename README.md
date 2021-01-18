@@ -21,6 +21,7 @@ Big Projects:
 - Email: [Aghits Nidallah](yourlovelydev@gmail.com)
 
 [![NikarashiHatsu's github stats](https://github-readme-stats.vercel.app/api?username=NikarashiHatsu)](https://github.com/NikarashiHatsu)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NikarashiHatsu&theme=light)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 <!--
 **NikarashiHatsu/NikarashiHatsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
