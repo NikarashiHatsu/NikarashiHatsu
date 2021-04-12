@@ -3,17 +3,17 @@ I'm a Fullstack developer from Cirebon, West Java, Indonesia. I'm a college stud
 
 🔭 I’m currently working on nothing, but particularly busy to do IRL works.
 Big Projects:
-- **SDM Polda Aceh. (Done) Maintenance step is on the way!**
-- **Project Red / BWI App Store. (Done) Maintenance and polish them is on the way!**
-- Aceh Bhayangkari - Planned
-- 4 Reality Reborn - In progress
+- **SDM Polda Aceh. (Done) Maintenance is on the way!**
+- **Project Red / BWI App Store. (Done) Maintenance is on the way!**
+- **Dumas Presisi Polri. (Done) Maintenance is on the way!**
+- **4 Reality Reborn - (Done) Maintenance is on the way!**
 - Vite Components - Personal project, in progress
 
-🌱 ~I’m currently learning Flutter, I want to make an android application and publish it on Google Play, someday.~ I want to learn PWA.
+🌱 **Learning PWA and JavaScript**.
 
 🤔 I’m looking for help with:
-- Flutter BLoC (still). It's hard for me to understand.
 - Progressive Web App.
+- JavaScript framework such as React, Svelte, or or Next
 
 💬 Ask me about anything.
 
