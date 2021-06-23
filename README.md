@@ -7,7 +7,7 @@ Here are some big projects I've handled:
 - [4Reality.id](https://4reality.id), a company profile website designed and made using love and the power of simp, the best of [Wibucode's Front End 2021 Event](https://github.com/wibucode02/submision-event-frontend-2021) ([Result](https://github.com/wibucode02/top-5-pemenang-event-front-end-wibucode-2021)). The official website of virtual YouTuber team, 4 Reality Indonesia. My proudest work so far with a lot of efforts are put into. Design and code are original made by me.
 
 📫 How to reach me:
-- Email: [Aghits Nidallah](yourlovelydev@gmail.com)
+- Email: [Aghits Nidallah](mailto:yourlovelydev@gmail.com)
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
