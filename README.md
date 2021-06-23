@@ -1,27 +1,13 @@
 ### Hi there 👋
-I'm a Fullstack developer from Cirebon, West Java, Indonesia. I'm a college student and currently working as a freelance.
+I'm a Fullstack developer from Cirebon, West Java, Indonesia. I'm a college student and currently working full-time developer at [PT. Bengkel Web Indonesia](https://github.com/PT-Bengkel-Web-Indonesia).
 
-🔭 I’m currently working on nothing, but particularly busy to do IRL works.
-Big Projects:
-- **SDM Polda Aceh. (Done) Maintenance is on the way!**
-- **Project Red / BWI App Store. (Done) Maintenance is on the way!**
-- **Dumas Presisi Polri. (Done) Maintenance is on the way!**
-- **4 Reality Reborn - (Done) Maintenance is on the way!**
-- Vite Components - Personal project, in progress
-
-🌱 **Learning PWA and JavaScript**.
-
-🤔 I’m looking for help with:
-- Progressive Web App.
-- JavaScript framework such as React, Svelte, or or Next
-
-💬 Ask me about anything.
+Here are some big projects I've handled:
+- Dumas Presisi, an application used by the Indonesia National Police to monitor their performance through public report. Those public reports are usually people complaining about the police's performance. If you have any complaints about the police's performance, submit your ticket here at [Dumas Presisi](https://dumaspresisi.polri.go.id/dumaspro). This project is maintained daily in a secret repository.
+- Personnal Care Polda Aceh, an application used to monitor Polda Aceh's human resource, in other word, their personnel. The application consisting the statistic to give the admin an insight about what action needs to be done in the future based on the data given. The data includes personnel's health, title, and death. It is not a private project so I couldn't give any examples.
+- [4Reality.id](https://4reality.id), a company profile website designed and made using love and the power of simp, the best of [Wibucode's Front End 2021 Event](https://github.com/wibucode02/submision-event-frontend-2021) ([Result](https://github.com/wibucode02/top-5-pemenang-event-front-end-wibucode-2021)). The official website of virtual YouTuber team, 4 Reality Indonesia. My proudest work so far with a lot of efforts are put into. Design and code are original made by me.
 
 📫 How to reach me:
 - Email: [Aghits Nidallah](yourlovelydev@gmail.com)
-
-[![NikarashiHatsu's github stats](https://github-readme-stats.vercel.app/api?username=NikarashiHatsu)](https://github.com/NikarashiHatsu)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NikarashiHatsu&theme=light)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
