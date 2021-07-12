@@ -10,7 +10,7 @@ Here are some big projects I've handled:
 - Email: [Aghits Nidallah](mailto:yourlovelydev@gmail.com)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 **🐱 My Github Data** 
 
@@ -91,5 +91,5 @@ Dart                     8 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/NikarashiHatsu/NikarashiHatsu/master/charts/bar_graph.png) 
 
 
- Last Updated on 11/07/2021
+ Last Updated on 12/07/2021
 <!--END_SECTION:waka-->
