@@ -16,7 +16,7 @@ Here are some big projects I've handled:
 
 > 🏆 1,378 Kontribusi pada 2021
  > 
-> 📦 962.1 kB Digunakan di Github Storage 
+> 📦 962.2 kB Digunakan di Github Storage 
  > 
 > 🚫 Tidak sedang bisa dipekerjakan
  > 
@@ -91,5 +91,5 @@ Dart                     8 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/NikarashiHatsu/NikarashiHatsu/master/charts/bar_graph.png) 
 
 
- Last Updated on 01/08/2021
+ Last Updated on 02/08/2021
 <!--END_SECTION:waka-->
