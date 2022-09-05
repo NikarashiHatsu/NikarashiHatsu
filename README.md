@@ -10,13 +10,13 @@ Here are some big projects I've handled:
 - Email: [Aghits Nidallah](mailto:yourlovelydev@gmail.com)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C665%20hrs%2039%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profil%20dilihat-8-blue)
+![Profile Views](http://img.shields.io/badge/Profil%20dilihat-9-blue)
 
 **🐱 Dataku di GitHub** 
 
-> 🏆 1,762 Kontribusi pada 2022
+> 🏆 1,768 Kontribusi pada 2022
  > 
 > 📦 1.1 MB Digunakan di GitHub Storage 
  > 
@@ -26,6 +26,56 @@ Here are some big projects I've handled:
  > 
 > 🔑 25 Repositori pribadi  
  > 
+**Aku orangnya nokturnal 🦉** 
+
+```text
+🌞 Pagi       137 commits    █░░░░░░░░░░░░░░░░░░░░░░░░   6.87% 
+🌆 Siang      575 commits    ███████░░░░░░░░░░░░░░░░░░   28.84% 
+🌃 Petang     659 commits    ████████░░░░░░░░░░░░░░░░░   33.05% 
+🌙 Malam      623 commits    ███████░░░░░░░░░░░░░░░░░░   31.24%
+
+```
+📅 **Paling produktif saat Selasa** 
+
+```text
+Senin        294 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.74% 
+Selasa       331 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.6% 
+Rabu         302 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.15% 
+Kamis        256 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.84% 
+Jumat        312 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.65% 
+Sabtu        218 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.93% 
+Minggu       281 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.09%
+
+```
+
+
+📊 **Minggu ini menghabiskan waktu di** 
+
+```text
+⌚︎ Zona waktu: Asia/Jakarta
+
+💬 Bahasa: 
+PHP                      7 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   38.07% 
+Blade Template           5 hrs               ██████░░░░░░░░░░░░░░░░░░░   26.18% 
+Python                   4 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   21.66% 
+Java                     1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.58% 
+JavaScript               24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.16%
+
+🔥 Editor: 
+VS Code                  19 hrs 6 mins       █████████████████████████   100.0%
+
+🐱‍💻 Proyek: 
+dumaspro                 5 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   26.36% 
+SemesterPendek           4 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   21.67% 
+ahli-waris               4 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   21.05% 
+pelayanan-desa-terpadu-gu3 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.43% 
+Java                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.92%
+
+💻 Sistem Operasi: 
+Mac                      19 hrs 6 mins       █████████████████████████   100.0%
+
+```
+
 **Kebanyakan menulis dalam bahasa PHP** 
 
 ```text
@@ -43,5 +93,5 @@ Blade                    8 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/NikarashiHatsu/NikarashiHatsu/master/charts/bar_graph.png) 
 
 
- Last Updated on 04/09/2022 18:55:05 UTC
+ Last Updated on 05/09/2022 19:02:15 UTC
 <!--END_SECTION:waka-->
