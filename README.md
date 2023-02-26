@@ -6,14 +6,29 @@ All of my publicly-available works are listed in this profile's repository tab, 
 
 ---
 
-![Metrics Core](https://raw.githubusercontent.com/NikarashiHatsu/NikarashiHatsu/master/metrics-core.svg))
+<img
+  src="https://raw.githubusercontent.com/NikarashiHatsu/NikarashiHatsu/master/metrics-languages.svg"
+  width="100%"
+/>
 
-![Metrics Languages](https://raw.githubusercontent.com/NikarashiHatsu/NikarashiHatsu/master/metrics-languages.svg)
+<img
+  src="https://raw.githubusercontent.com/NikarashiHatsu/NikarashiHatsu/master/metrics-core.svg"
+  width="100%"
+/>
 
-![Metrics Isometric](https://raw.githubusercontent.com/NikarashiHatsu/NikarashiHatsu/master/metrics-isometric.svg)
+<img
+  src="https://raw.githubusercontent.com/NikarashiHatsu/NikarashiHatsu/master/metrics-isometric.svg"
+  width="100%"
+/>
 
 ---
 
-![Metrics Community](https://raw.githubusercontent.com/NikarashiHatsu/NikarashiHatsu/master/metrics-community.svg)
+<img
+  src="https://raw.githubusercontent.com/NikarashiHatsu/NikarashiHatsu/master/metrics-community.svg"
+  width="100%"
+/>
 
-![Metrics Achievements](https://raw.githubusercontent.com/NikarashiHatsu/NikarashiHatsu/master/metrics-achievements.svg
+<img
+  src="https://raw.githubusercontent.com/NikarashiHatsu/NikarashiHatsu/master/metrics-achievements.svg"
+  width="100%"
+/>
