@@ -13,13 +13,115 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          filename: metrics-core.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: NikarashiHatsu
           template: classic
+          
+          # Base
           base: header, activity, community, repositories, metadata
           base_hireable: yes
           base_indepth: yes
+          
+          # Base Configs
           config_octicon: yes
           config_timezone: Asia/Jakarta
           config_twemoji: yes
           repositories_forks: yes
+          
+          # Lines
+          plugin_lines: yes
+          plugin_lines_history_limit: 1
+          plugin_lines_repositories_limit: 4
+          plugin_lines_sections: base
+          
+          # Habits
+          plugin_habits: yes
+          plugin_habits_charts_type: classic
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_from: 200
+          plugin_habits_languages_limit: 8
+          plugin_habits_languages_threshold: 0%
+          
+          # Notable Contributions
+          plugin_notable: yes
+          plugin_notable_from: organization
+          plugin_notable_types: commit
+
+  metrics-isometric:
+      runs-on: ubuntu-latest
+      permissions:
+        contents: write
+      steps:
+        - uses: lowlighter/metrics@latest
+          with:
+            filename: metrics-isometric.svg
+            token: ${{ secrets.METRICS_TOKEN }}
+            user: NikarashiHatsu
+            template: classic
+            
+            # Base
+            base: ""
+            config_timezone: Asia/Jakarta
+            
+            # Isometric Calendar
+            plugin_isocalendar: yes
+            plugin_isocalendar_duration: full-year
+            
+  metrics-community:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics-community.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: NikarashiHatsu
+          template: classic
+          
+          # Base
+          base: ""
+          config_timezone: Asia/Jakarta
+          
+          # Follow-up Issues and PRs
+          plugin_followup: yes
+          plugin_followup_archived: yes
+          plugin_followup_sections: repositories
+          
+          # People
+          plugin_people: yes
+          plugin_people_limit: 24
+          plugin_people_size: 28
+          plugin_people_types: followers, following
+          
+          # Reactions
+          plugin_reactions: yes
+          plugin_reactions_display: absolute
+          plugin_reactions_limit: 200
+          plugin_reactions_limit_discussions: 100
+          plugin_reactions_limit_discussions_comments: 100
+          plugin_reactions_limit_issues: 100
+          
+  metrics-achievements:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics-achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: NikarashiHatsu
+          template: classic
+          
+          # Base
+          base: ""
+          config_timezone: Asia/Jakarta
+          
+          # Achievement
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: C
